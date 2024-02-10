@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/igmhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igmhar/" height="30" width="40" /></a><br/>
 
-<a href="https://github.com/Vizard16">
+<br><a href="https://github.com/Vizard16">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vizard16&show_icons=true&theme=dark" />
-  </a>
+  </a><br/>
 
 
 <a href="https://github.com/Vizard16">
