@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vizard16&label=Profile%20views&color=0e75b6&style=flat" alt="Vizard16" /> </p>
 
 - 🔭 I’m currently working on learning more about **Computer Science, Advanced Data Structures and Full-Stack Development**
-- 💬 Ask me about **Arduino, Python, ROS and Robotics**
+- 💬 Ask me about **Python, ROS,  Robotics and Arduino**
 - 👀 I’m interested in everything but mostly in **Web Development and Robotics**  :)
 - 🌱 I’m currently diving deeply in **C++ and JavaScript**
 - 📫 Reach me at **sanchezigmhar@hotmail.com // A00369678@tec.mx**
