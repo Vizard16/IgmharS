@@ -27,3 +27,5 @@
 <a href="https://github.com/Vizard16">
   <img height=200 align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizard16&hide=shaderlab,makerfile,jupyter%20notebook,hlsl&layout=compact&show_icons=true&theme=dark&langs_count=8" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vizard16&" alt="Vizard16" /></p>
