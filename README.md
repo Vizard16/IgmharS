@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on learning more about **Computer Science, Advanced Data Structures and Full-Stack Development**
 - 💬 Ask me about **Python, ROS,  Robotics and Arduino**
 - 👀 I’m interested in everything but mostly in **Web Development and Robotics**  :)
-- 🌱 I’m currently diving deeply in **C++ and JavaScript**
+- 🌱 I’m currently diving deeply in **C# and JavaScript**
 - 📫 Reach me at **sanchezigmhar@hotmail.com // A00369678@tec.mx**
 - ⚡ Fun fact **I am Passionate About Art, Love Music and Videogames**
 
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/igmhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igmhar/" height="30" width="40" /></a><br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <br><a href="https://github.com/Vizard16">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vizard16&show_icons=true&theme=dark" />
   </a><br/>
