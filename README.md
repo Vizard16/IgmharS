@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on learning more about **Computer Science, Advanced Data Structures and Full-Stack Development**
 - 💬 Ask me about **Python, ROS,  Robotics and Arduino**
 - 👀 I’m interested in everything but mostly in **Web Development and Robotics**  :)
+- 🤖 Currently making a Discord Bot that provides users with movie information and reviews sourced from the famous Letterboxd app. 🎬📜🌟
 - 🌱 I’m currently diving deeply in **C++, JavaScript and ReactJS**
 - 📫 Reach me at **sanchezigmhar@hotmail.com // A00369678@tec.mx**
 - ⚡ Fun fact **I am Passionate About Art, Love Music and Videogames**
